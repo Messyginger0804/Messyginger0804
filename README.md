@@ -12,13 +12,13 @@ I also founded [DFW Software Consulting](https://github.com/DFW-Software-Consult
 ## 💼 Highlights of My Work
 
 ### 🌐 SaaS Development – CM Collision Data Estimate (CMDE)
-- Designed and built a **Next.js + Prisma platform** for heavy-duty truck repair shops.  
+- Designed and built a **[Next.js](https://nextjs.org/) + [Prisma](https://www.prisma.io/)** platform for heavy-duty truck repair shops.  
 - Integrated **AI-driven image analysis** and **VIN decoding** to generate repair-time estimates.  
 - Built a proprietary **vehicle + image + repair database** to power machine learning models.  
 - Delivered a solution that reduced time-to-estimate from **hours to minutes**.  
 
 ### 📋 Digital Transformation – Batch Production Record (BPR) System
-- Led development of a **React + FastAPI** system digitizing paper-based manufacturing workflows.  
+- Led development of a **[React](https://react.dev/) + [FastAPI](https://fastapi.tiangolo.com/)** system digitizing paper-based manufacturing workflows.  
 - Implemented **role-based access** (operators, managers, QC) for compliance and accountability.  
 - Automated reporting & record-keeping, improving **operational efficiency** and reducing errors.  
 
@@ -26,16 +26,16 @@ I also founded [DFW Software Consulting](https://github.com/DFW-Software-Consult
 - Built and maintained **Landing Pages & e-commerce websites** across multiple industries.  
 - Increased **site performance & SEO rankings**, resulting in higher traffic and conversions.  
 - Automated content workflows (APIs, CMS integrations), saving hours of manual work.  
-- Deployed and optimized applications on **Linux, Docker, and cloud platforms**.  
+- Deployed and optimized applications on **[Linux](https://www.linux.org/), [Docker](https://www.docker.com/), and cloud platforms**.  
 
 ---
 
 ## 🛠️ Skills & Expertise
-- **Frontend:** React, Next.js, Vue, TailwindCSS  
-- **Backend & APIs:** FastAPI, Node.js, REST, GraphQL  
-- **Databases:** PostgreSQL, MongoDB, SQLite, Prisma, Alembic  
-- **DevOps & Infrastructure:** Docker, Nginx, Cloudflare, Proxmox, CI/CD pipelines  
-- **AI & Data:** LLM integration (Qwen, OpenAI, Ollama), vector databases, image processing  
+- **Frontend:** [React](https://react.dev/), [Next.js](https://nextjs.org/), [Vue](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/)  
+- **Backend & APIs:** [FastAPI](https://fastapi.tiangolo.com/), [Node.js](https://nodejs.org/), REST, [GraphQL](https://graphql.org/)  
+- **Databases:** [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [SQLite](https://www.sqlite.org/), [Prisma](https://www.prisma.io/), [Alembic](https://alembic.sqlalchemy.org/)  
+- **DevOps & Infrastructure:** [Docker](https://www.docker.com/), [Nginx](https://nginx.org/), [Cloudflare](https://www.cloudflare.com/), [Proxmox](https://www.proxmox.com/), CI/CD pipelines  
+- **AI & Data:** LLM integration ([Qwen](https://huggingface.co/Qwen), [OpenAI](https://openai.com/), [Ollama](https://ollama.ai/)), [Vector Databases](https://milvus.io/), image processing  
 - **Project Leadership:** Agile teamwork, technical mentorship, stakeholder communication  
 
 ---
@@ -59,7 +59,7 @@ I also founded [DFW Software Consulting](https://github.com/DFW-Software-Consult
 
 ## 📫 Let’s Connect
 - 🌐 [Portfolio / Blog](https://byjc.dev)  
-- 💼 [LinkedIn](https://linkedlin.byjc.dev)  
+- 💼 [LinkedIn](https://linkedin.byjc.dev)  
 - 📧 [DM Me](https://discord.byjc.dev)  
 
 ---
