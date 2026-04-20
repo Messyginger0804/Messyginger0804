@@ -1,67 +1,167 @@
-# 🚀 [Jeremy Ashley](https://byjc.dev) | Full-Stack Engineer • SaaS Builder • DevOps Innovator
+# 🚀 [Jeremy Ashley](https://byjc.dev) | Full-Stack Engineer • SaaS Builder • DevOps Operator
 
-### 👋 Hi, I’m [Jeremy](https://linkedin.byjc.dev)
+### 👋 Hey, I’m [Jeremy](https://linkedin.byjc.dev)
 
-I’m a **Full-Stack Software Engineer** with a proven track record of building **scalable SaaS platforms**, leading **digital transformation projects**, and delivering **high-impact web solutions** for clients.
+I’m a **Full-Stack Software Engineer** focused on building and shipping **real-world SaaS products**—not just features.
 
-Currently at [Onix Media](https://onixmedia.com), I drive development across the stack — from **frontend experiences** to **backend APIs** to **DevOps automation**.  
-I also founded [DFW Software Consulting](https://github.com/DFW-Software-Consulting), where I mentor and collaborate with local developers to help them gain real-world experience, build their portfolios, and deliver projects for clients.
+I specialize in taking ideas from **zero → production**, handling everything from **frontend UX** to **backend systems**, **payments**, and **infrastructure**.
 
----
+* 🧠 Product-minded engineering
+* ⚙️ DevOps + production ownership
+* 💳 Deep experience with payment systems
+* 🏗️ Builder of tools businesses rely on daily
 
-## 💼 Highlights of My Work
+Currently:
 
-### 🌐 SaaS Development – CM Collision Data Estimate (CMDE)
-- Designed and built a **[Next.js](https://nextjs.org/) + [Prisma](https://www.prisma.io/)** platform for heavy-duty truck repair shops.  
-- Integrated **AI-driven image analysis** and **VIN decoding** to generate repair-time estimates.  
-- Built a proprietary **vehicle + image + repair database** to power machine learning models.  
-- Delivered a solution that reduced time-to-estimate from **hours to minutes**.  
-
-### 📋 Digital Transformation – Batch Production Record (BPR) System
-- Led development of a **[React](https://react.dev/) + [FastAPI](https://fastapi.tiangolo.com/)** system digitizing paper-based manufacturing workflows.  
-- Implemented **role-based access** (operators, managers, QC) for compliance and accountability.  
-- Automated reporting & record-keeping, improving **operational efficiency** and reducing errors.  
-
-### 🏢 Client Solutions @ [Onix Media](https://onixmedia.com)
-- Built and maintained **Landing Pages & e-commerce websites** across multiple industries.  
-- Increased **site performance & SEO rankings**, resulting in higher traffic and conversions.  
-- Automated content workflows (APIs, CMS integrations), saving hours of manual work.  
-- Deployed and optimized applications on **[Linux](https://www.linux.org/), [Docker](https://www.docker.com/), and cloud platforms**.  
+* 💼 **Full-Stack Engineer @** Onix Media
+* ⚓ **Founder @** [DFW Software Consulting](https://www.dfwsc.com)
 
 ---
 
-## 🛠️ Skills & Expertise
-- **Frontend:** [React](https://react.dev/), [Next.js](https://nextjs.org/), [Vue](https://vuejs.org/), [TailwindCSS](https://tailwindcss.com/)  
-- **Backend & APIs:** [FastAPI](https://fastapi.tiangolo.com/), [Node.js](https://nodejs.org/), REST, [GraphQL](https://graphql.org/)  
-- **Databases:** [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), [SQLite](https://www.sqlite.org/), [Prisma](https://www.prisma.io/), [Alembic](https://alembic.sqlalchemy.org/)  
-- **DevOps & Infrastructure:** [Docker](https://www.docker.com/), [Nginx](https://nginx.org/), [Cloudflare](https://www.cloudflare.com/), [Proxmox](https://www.proxmox.com/), CI/CD pipelines  
-- **AI & Data:** LLM integration ([Qwen](https://huggingface.co/Qwen), [OpenAI](https://openai.com/), [Ollama](https://ollama.ai/)), [Vector Databases](https://milvus.io/), image processing  
-- **Project Leadership:** Agile teamwork, technical mentorship, stakeholder communication  
+## 💼 What I Actually Build
+
+### 🏢 Property Management Platform (SaaS)
+
+* Built a **reservation + billing system** handling:
+
+  * Proration logic
+  * Monthly vs short-term billing cycles
+  * Invoice generation + payment tracking
+* Integrated Stripe (ACH, invoices, payments)
+* Designed **ledger + reporting systems** for real financial visibility
+* Used daily by real operators managing properties
+
+---
+
+### 💳 Multi-Tenant Payments Platform
+
+* Built a **multi-tenant payments API + frontend**
+* Supports:
+
+  * Per-client configs
+  * Secure payment flows
+  * Scalable backend architecture
+* Deployed via **Docker + Coolify + Traefik**
+* Designed to scale across multiple businesses
+
+---
+
+### 🛍️ E-commerce & Shopify Systems
+
+* Built and optimized storefronts using Shopify (Liquid + Headless/Hydrogen)
+* Migrated legacy storefronts to **modern React/Next.js architectures**
+* Integrated:
+
+  * Reviews systems
+  * Loyalty programs
+  * Email marketing tools
+* Improved **performance, SEO, and conversion rates**
+
+👉 Experienced in both **traditional Shopify** and **headless commerce setups**
+
+---
+
+### ⚙️ Infrastructure & Self-Hosting
+
+* Run production workloads using:
+
+  * Coolify
+  * Docker + Traefik
+  * Cloudflare
+  * Tailscale
+
+* Handle:
+
+  * Reverse proxies
+  * Domain routing
+  * SSL + DNS issues
+  * Production debugging (real outages, not tutorials)
+
+👉 I don’t just write code—I **run it in production**
+
+---
+
+### 📋 Digital Ops Systems (BPR)
+
+* Built internal tools replacing manual workflows with:
+
+  * Role-based systems
+  * Automated reporting
+  * Real-time tracking
+* Increased efficiency for non-technical teams
+
+---
+
+## 🛠️ Tech I Use
+
+**Frontend**
+
+* React
+* Next.js
+* Tailwind
+
+**Backend**
+
+* Node.js
+* REST APIs, auth, multi-tenant systems
+
+**Payments**
+
+* Stripe
+
+**E-commerce**
+
+* Shopify (Liquid + Hydrogen)
+
+**Databases**
+
+* PostgreSQL
+* MongoDB
+
+**DevOps / Infra**
+
+* Docker
+* Traefik
+* Cloudflare
+* Coolify
+* Tailscale
 
 ---
 
 ## 🌍 Community & Leadership
-- ⚓ **Founder, [DFW Software Consulting](https://github.com/DFW-Software-Consulting)**  
-  - Created opportunities for local developers to **gain paid consulting experience**.  
-  - Helped junior engineers build **resume-ready projects** and grow professionally.  
 
-- 🎤 **Active in [Dallas Software Developers](https://www.dallassoftwaredevelopers.org/)**  
-  - Regular at meetups & conferences.  
-  - Passionate about mentoring, networking, and sharing knowledge with peers.  
+* ⚓ Founder of [DFW Software Consulting](https://www.dfwsc.com)
 
----
+  * Mentor junior developers
+  * Deliver real client work
+  * Build portfolio-ready experience
 
-## 📊 By the Numbers
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=messyginger0804&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=messyginger0804&layout=compact&theme=radical&hide=c,shell,makefile)  
+* 🎤 Active in Dallas Software Developers
 
----
-
-## 📫 Let’s Connect
-- 🌐 [Portfolio / Blog](https://byjc.dev)  
-- 💼 [LinkedIn](https://linkedin.byjc.dev)  
-- 📧 [DM Me](https://discord.byjc.dev)  
+  * Help organize meetups
+  * Support local dev community
+  * Contribute to events like “Commit Your Code”
 
 ---
 
-💡 *I’m excited to bring my experience building **scalable products**, leading **digital transformations**, and mentoring **future engineers** to my next opportunity.*
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=messyginger0804\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=messyginger0804\&layout=compact\&theme=radical\&hide=c,shell,makefile)
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 [https://byjc.dev](https://byjc.dev)
+* 💼 [https://linkedin.byjc.dev](https://linkedin.byjc.dev)
+* 📧 Open to opportunities & collaborations
+
+---
+
+## 💡 What I’m Looking For
+
+I’m looking for my next role where I can:
+
+* Own **real product systems**
+* Continue growing as a **builder who ships and operates software**
