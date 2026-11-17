@@ -1,167 +1,56 @@
-# 🚀 [Jeremy Ashley](https://byjc.dev) | Full-Stack Engineer • SaaS Builder • DevOps Operator
+# Jeremy "JC" Ashley
+### Full-Stack Software Engineer · SaaS, payments & business tools
 
-### 👋 Hey, I’m [Jeremy](https://linkedin.byjc.dev)
+I build software that helps people run their businesses—from reservation and billing workflows to internal tools and customer-facing apps. My work spans the interface, backend, database, deployment, and ongoing production support.
 
-I’m a **Full-Stack Software Engineer** focused on building and shipping **real-world SaaS products**—not just features.
+I'm based in Dallas, Texas, and founded [DFW Software Consulting](https://www.dfwsc.com), where I mentor developers and help teams deliver client projects.
 
-I specialize in taking ideas from **zero → production**, handling everything from **frontend UX** to **backend systems**, **payments**, and **infrastructure**.
+[Portfolio](https://software.byjc.dev/) · [Writing](https://byjc.dev) · [LinkedIn](https://www.linkedin.com/in/dev-jc/) · [DFW Software Consulting](https://www.dfwsc.com)
 
-* 🧠 Product-minded engineering
-* ⚙️ DevOps + production ownership
-* 💳 Deep experience with payment systems
-* 🏗️ Builder of tools businesses rely on daily
+## What I work on
 
-Currently:
+- **Business applications:** Reservation systems, reporting, role-based workflows, and tools that replace manual processes.
+- **Billing & payments:** Proration, recurring and short-term billing, invoices, ACH payments, and ledger reporting with Stripe.
+- **Commerce:** Shopify storefronts, Liquid and Hydrogen integrations, and React/Next.js applications.
+- **Production operations:** Docker deployments, reverse proxies, DNS, TLS, and troubleshooting the systems I ship.
 
-* 💼 **Full-Stack Engineer @** Onix Media
-* ⚓ **Founder @** [DFW Software Consulting](https://www.dfwsc.com)
+## Explore my work
 
----
+| Project | What you'll find |
+| --- | --- |
+| [Space Academy](https://github.com/Messyginger0804/brayee-times-table-next) | A math and spelling practice app with generated exercises, progress tracking, spoken feedback, and guest play. Built with Next.js, PostgreSQL, and Prisma. |
+| [Eagles Game-Day Program](https://github.com/Messyginger0804/eagles-program) | A digital football program with schedules, rosters, stats, and player pages. Built with Astro and SQLite, with automated data and link checks. |
+| [By JC](https://github.com/Messyginger0804/byjc) | My publishing site, evolved from MDX content to PostgreSQL-backed publishing with Next.js and Tailwind CSS. |
+| [Wall of Names](https://github.com/Messyginger0804/name-wall) | An interactive workshop project that turns a contributor's first pull request into a visible addition to a shared wall. |
 
-## 💼 What I Actually Build
+My business application experience also includes property-management and multi-tenant payment systems, described above.
 
-### 🏢 Property Management Platform (SaaS)
+## Tools I use
 
-* Built a **reservation + billing system** handling:
+**Applications:** JavaScript, React, Next.js, Node.js, Tailwind CSS  
+**Data & integrations:** PostgreSQL, MongoDB, Prisma, Stripe, Shopify  
+**Infrastructure:** Docker, Cloudflare, Traefik, Coolify, Tailscale
 
-  * Proration logic
-  * Monthly vs short-term billing cycles
-  * Invoice generation + payment tracking
-* Integrated Stripe (ACH, invoices, payments)
-* Designed **ledger + reporting systems** for real financial visibility
-* Used daily by real operators managing properties
+## Community
 
----
+Through DFW Software Consulting, I mentor developers, review code, and help turn client requirements into working software. I also support the Dallas developer community through meetups and events, including Commit Your Code.
 
-### 💳 Multi-Tenant Payments Platform
+## GitHub stats
 
-* Built a **multi-tenant payments API + frontend**
-* Supports:
+<p>
+  <a href="https://github.com/Messyginger0804?tab=repositories">
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=Messyginger0804&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;hide_border=true" alt="Jeremy's GitHub stats: stars, commits, pull requests, issues, and contributions" />
+  </a>
+  <a href="https://github.com/Messyginger0804?tab=repositories">
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Messyginger0804&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=6" alt="Most-used languages across my public repositories" />
+  </a>
+</p>
 
-  * Per-client configs
-  * Secure payment flows
-  * Scalable backend architecture
-* Deployed via **Docker + Coolify + Traefik**
-* Designed to scale across multiple businesses
+*These cards reflect public GitHub activity; language usage doesn't represent all of my professional work.*
 
----
+## Let's connect
 
-### 🛍️ E-commerce & Shopify Systems
+I'm open to software engineering opportunities and collaborations where I can own a product from implementation through production support.
 
-* Built and optimized storefronts using Shopify (Liquid + Headless/Hydrogen)
-* Migrated legacy storefronts to **modern React/Next.js architectures**
-* Integrated:
+[See my portfolio](https://software.byjc.dev/) · [Connect on LinkedIn](https://www.linkedin.com/in/dev-jc/)
 
-  * Reviews systems
-  * Loyalty programs
-  * Email marketing tools
-* Improved **performance, SEO, and conversion rates**
-
-👉 Experienced in both **traditional Shopify** and **headless commerce setups**
-
----
-
-### ⚙️ Infrastructure & Self-Hosting
-
-* Run production workloads using:
-
-  * Coolify
-  * Docker + Traefik
-  * Cloudflare
-  * Tailscale
-
-* Handle:
-
-  * Reverse proxies
-  * Domain routing
-  * SSL + DNS issues
-  * Production debugging (real outages, not tutorials)
-
-👉 I don’t just write code—I **run it in production**
-
----
-
-### 📋 Digital Ops Systems (BPR)
-
-* Built internal tools replacing manual workflows with:
-
-  * Role-based systems
-  * Automated reporting
-  * Real-time tracking
-* Increased efficiency for non-technical teams
-
----
-
-## 🛠️ Tech I Use
-
-**Frontend**
-
-* React
-* Next.js
-* Tailwind
-
-**Backend**
-
-* Node.js
-* REST APIs, auth, multi-tenant systems
-
-**Payments**
-
-* Stripe
-
-**E-commerce**
-
-* Shopify (Liquid + Hydrogen)
-
-**Databases**
-
-* PostgreSQL
-* MongoDB
-
-**DevOps / Infra**
-
-* Docker
-* Traefik
-* Cloudflare
-* Coolify
-* Tailscale
-
----
-
-## 🌍 Community & Leadership
-
-* ⚓ Founder of [DFW Software Consulting](https://www.dfwsc.com)
-
-  * Mentor junior developers
-  * Deliver real client work
-  * Build portfolio-ready experience
-
-* 🎤 Active in Dallas Software Developers
-
-  * Help organize meetups
-  * Support local dev community
-  * Contribute to events like “Commit Your Code”
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=messyginger0804\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=messyginger0804\&layout=compact\&theme=radical\&hide=c,shell,makefile)
-
----
-
-## 📫 Connect With Me
-
-* 🌐 [https://byjc.dev](https://byjc.dev)
-* 💼 [https://linkedin.byjc.dev](https://linkedin.byjc.dev)
-* 📧 Open to opportunities & collaborations
-
----
-
-## 💡 What I’m Looking For
-
-I’m looking for my next role where I can:
-
-* Own **real product systems**
-* Continue growing as a **builder who ships and operates software**
