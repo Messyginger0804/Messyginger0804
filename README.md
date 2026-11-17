@@ -3,12 +3,13 @@
 
 I build software that helps people run their businesses—from reservation and billing workflows to internal tools and customer-facing apps. My work spans the interface, backend, database, deployment, and ongoing production support.
 
-I'm based in Dallas, Texas, and founded [DFW Software Consulting](https://www.dfwsc.com), where I mentor developers and help teams deliver client projects.
+I'm based in Dallas, Texas, and work with **Craft Digital**. I also founded [DFW Software Consulting](https://www.dfwsc.com), where I mentor developers and help teams deliver client projects.
 
 [Portfolio](https://software.byjc.dev/) · [Writing](https://byjc.dev) · [LinkedIn](https://www.linkedin.com/in/dev-jc/) · [DFW Software Consulting](https://www.dfwsc.com)
 
 ## What I work on
 
+- **Automation:** Connecting systems, automating follow-ups and reporting, and reducing repetitive work for teams.
 - **Business applications:** Reservation systems, reporting, role-based workflows, and tools that replace manual processes.
 - **Billing & payments:** Proration, recurring and short-term billing, invoicing, payment processing, and ledger reporting.
 - **Commerce:** Online storefronts, customer experiences, and integrations that connect business systems.
