@@ -22,7 +22,7 @@ I'm based in Dallas, Texas, and founded [DFW Software Consulting](https://www.df
 
 ## Community
 
-Through DFW Software Consulting, I mentor developers, review code, and help turn client requirements into working software. I also support the Dallas developer community through meetups and events, including Commit Your Code.
+Through DFW Software Consulting, I mentor developers, review code, and help turn client requirements into working software. I also support the [Dallas Software Developers Group](https://www.meetup.com/dallas-software-developers-meetup/) through meetups and community events, including the [Commit Your Code conference](https://www.commityourcode.com/).
 
 ## GitHub stats
 
