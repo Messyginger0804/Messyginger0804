@@ -10,15 +10,9 @@ I'm based in Dallas, Texas, and founded [DFW Software Consulting](https://www.df
 ## What I work on
 
 - **Business applications:** Reservation systems, reporting, role-based workflows, and tools that replace manual processes.
-- **Billing & payments:** Proration, recurring and short-term billing, invoices, ACH payments, and ledger reporting with Stripe.
-- **Commerce:** Shopify storefronts, Liquid and Hydrogen integrations, and React/Next.js applications.
-- **Production operations:** Docker deployments, reverse proxies, DNS, TLS, and troubleshooting the systems I ship.
-
-## Tools I use
-
-**Applications:** JavaScript, React, Next.js, Node.js, Tailwind CSS  
-**Data & integrations:** PostgreSQL, MongoDB, Prisma, Stripe, Shopify  
-**Infrastructure:** Docker, Cloudflare, Traefik, Coolify, Tailscale
+- **Billing & payments:** Proration, recurring and short-term billing, invoicing, payment processing, and ledger reporting.
+- **Commerce:** Online storefronts, customer experiences, and integrations that connect business systems.
+- **Production operations:** Deployment, infrastructure, reliability, and troubleshooting the systems I ship.
 
 ## Community
 
