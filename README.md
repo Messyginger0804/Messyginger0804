@@ -14,17 +14,6 @@ I'm based in Dallas, Texas, and founded [DFW Software Consulting](https://www.df
 - **Commerce:** Shopify storefronts, Liquid and Hydrogen integrations, and React/Next.js applications.
 - **Production operations:** Docker deployments, reverse proxies, DNS, TLS, and troubleshooting the systems I ship.
 
-## Explore my work
-
-| Project | What you'll find |
-| --- | --- |
-| [Space Academy](https://github.com/Messyginger0804/brayee-times-table-next) | A math and spelling practice app with generated exercises, progress tracking, spoken feedback, and guest play. Built with Next.js, PostgreSQL, and Prisma. |
-| [Eagles Game-Day Program](https://github.com/Messyginger0804/eagles-program) | A digital football program with schedules, rosters, stats, and player pages. Built with Astro and SQLite, with automated data and link checks. |
-| [By JC](https://github.com/Messyginger0804/byjc) | My publishing site, evolved from MDX content to PostgreSQL-backed publishing with Next.js and Tailwind CSS. |
-| [Wall of Names](https://github.com/Messyginger0804/name-wall) | An interactive workshop project that turns a contributor's first pull request into a visible addition to a shared wall. |
-
-My business application experience also includes property-management and multi-tenant payment systems, described above.
-
 ## Tools I use
 
 **Applications:** JavaScript, React, Next.js, Node.js, Tailwind CSS  
